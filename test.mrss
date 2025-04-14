@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Open Source Cloud Test Ads</title>
+  <id>osc-test-ads</id>
+  <updated>2025-11-24T19:00:00Z</updated>
+  <entry>
+    <id>volvo-15s</id>
+    <universalId>OSC001</universalId>
+    <link>https://testcontent.eyevinn.technology/ads/volvo-15s.mp4</link>
+    <duration>00:00:15</duration>
+    <bitrate>10041</bitrate>
+    <width>1920</width>
+    <height>1080</height>
+    <codec>H.264</codec>
+  </entry>
+  <entry>
+    <id>eyevinn-stswe-30s</id>
+    <universalId>EYEVINN001</universalId>
+    <link>https://testcontent.eyevinn.technology/ads/stswe-ad-30sec.mp4</link>
+    <duration>00:00:30</duration>
+    <bitrate>10041</bitrate>
+    <width>1920</width>
+    <height>1080</height>
+    <codec>H.264</codec>
+  </entry>
+</feed>
